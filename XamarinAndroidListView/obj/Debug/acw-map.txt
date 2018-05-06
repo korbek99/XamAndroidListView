@@ -1,0 +1,4 @@
+XamarinAndroidListView.MainActivity, XamarinAndroidListView;md5ce31eb19196c81794b7ddf6bb8666772.MainActivity
+XamarinAndroidListView.MainActivity, XamarinAndroidListView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ce31eb19196c81794b7ddf6bb8666772.MainActivity
+XamarinAndroidListView.MainActivity;md5ce31eb19196c81794b7ddf6bb8666772.MainActivity
+xamarinandroidlistview.MainActivity;md5ce31eb19196c81794b7ddf6bb8666772.MainActivity
